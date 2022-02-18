@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3233d96c-4969-4c2a-906e-4b6d5f02ddac" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="b475a871-da5f-4351-80b2-7bb1bce05368" />
+  <component name="ProjectId" id="23QbqRfsDQ8fJpUVCc0db0D5ivK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/semestr_5/Systemy Teleinformatyczne/projekt/ObjectDetection" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="main-build" type="PythonConfigurationType" factoryName="Python">
+      <module name="ObjectDetection" />
+      <option name="INTERPRETER_OPTIONS" value="-m PyInstaller" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\B3JKER\AppData\Local\Microsoft\WindowsApps\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="-y main.py" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ObjectDetection" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.main-build" />
+      <item itemvalue="Python.main" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3233d96c-4969-4c2a-906e-4b6d5f02ddac" name="Default Changelist" comment="" />
+      <created>1641669447336</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1641669447336</updated>
+      <workItem from="1641669475424" duration="2881000" />
+      <workItem from="1641672432503" duration="137000" />
+      <workItem from="1641673010558" duration="618000" />
+      <workItem from="1641683970757" duration="159000" />
+      <workItem from="1641686735763" duration="8042000" />
+      <workItem from="1641822044369" duration="65000" />
+      <workItem from="1641822114474" duration="240000" />
+      <workItem from="1641839644655" duration="1114000" />
+      <workItem from="1641849054031" duration="5796000" />
+      <workItem from="1641917388636" duration="4293000" />
+      <workItem from="1641924118515" duration="44000" />
+      <workItem from="1641931697665" duration="667000" />
+      <workItem from="1641972801548" duration="45000" />
+      <workItem from="1641973829896" duration="512000" />
+      <workItem from="1642025392000" duration="305000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="175" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1641693707398">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/0.-1080.1920.1040@0.0.1920.1040" timestamp="1641693707398" />
+    <state x="739" y="225" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1641693433677">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="739" y="225" key="#com.intellij.ide.macro.MacrosDialog/0.0.1920.1040/0.-1080.1920.1040@0.0.1920.1040" timestamp="1641693433677" />
+    <state x="728" y="350" key="#com.intellij.tools.ToolEditorDialog" timestamp="1641693495389">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="728" y="350" key="#com.intellij.tools.ToolEditorDialog/0.0.1920.1040/0.-1080.1920.1040@0.0.1920.1040" timestamp="1641693495389" />
+    <state x="739" y="275" key="FileChooserDialogImpl" timestamp="1642025510411">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="739" y="275" key="FileChooserDialogImpl/0.0.1920.1040/0.-1080.1920.1040@0.0.1920.1040" timestamp="1642025510411" />
+    <state width="1031" height="285" key="GridCell.Tab.0.bottom" timestamp="1641974344876">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="286" key="GridCell.Tab.0.bottom/0.0.1920.1040/0.-1080.1920.1040@0.0.1920.1040" timestamp="1641924162621" />
+    <state width="1031" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1641974344876" />
+    <state width="1031" height="285" key="GridCell.Tab.0.center" timestamp="1641974344876">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="286" key="GridCell.Tab.0.center/0.0.1920.1040/0.-1080.1920.1040@0.0.1920.1040" timestamp="1641924162621" />
+    <state width="1031" height="285" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1641974344876" />
+    <state width="1031" height="285" key="GridCell.Tab.0.left" timestamp="1641974344876">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="286" key="GridCell.Tab.0.left/0.0.1920.1040/0.-1080.1920.1040@0.0.1920.1040" timestamp="1641924162621" />
+    <state width="1031" height="285" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1641974344876" />
+    <state width="1031" height="285" key="GridCell.Tab.0.right" timestamp="1641974344876">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="286" key="GridCell.Tab.0.right/0.0.1920.1040/0.-1080.1920.1040@0.0.1920.1040" timestamp="1641924162621" />
+    <state width="1031" height="285" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1641974344876" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1641822097800">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040/0.-1080.1920.1040@0.0.1920.1040" timestamp="1641694158170" />
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1641822097800" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ObjectDetection$main_build.coverage" NAME="main-build Coverage Results" MODIFIED="1641693739141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ObjectDetection$main.coverage" NAME="main Coverage Results" MODIFIED="1641974264372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
